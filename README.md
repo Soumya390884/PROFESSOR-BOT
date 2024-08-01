@@ -43,18 +43,7 @@
 - [x] Photo Changing In All Buttons
 - [x] Custom Start Message
 - [x] Custom Button Alter Message
-- [x] Advanced Status (Disk, Cpu, Ram, Uptime..) In Image Type
-</details>
-
-<details>
-<summary><b>Variables</b></summary>
-  
-### Required Variables
-* `BOT_TOKEN`:7324455524:AAHQxyUQr_eSkd_Z9mKp-2_VNhIbxOtpgAw
-* `API_ID`:26542274
-* `API_HASH`:5d93f4663a824dcc11b308bbbd5f589b
-* `CHANNELS`:@Screenvibe_bot
-* `ADMINS`:6681066457
+- [x] Advanced Status (Disk, Cpu, Ram, Upti
 * `DATABASE_URL`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
